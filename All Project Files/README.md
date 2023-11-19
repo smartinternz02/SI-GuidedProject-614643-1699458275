@@ -46,5 +46,5 @@ To classify a microorganism in a sample image, input the image into the Microbe 
 
 ## Acknowledgments
 
-We would like to express our gratitude to the developers and contributors of the InceptionV3 architecture, which forms the backbone of Microbe Mapper.
+We would like to express our gratitude to the  SmartInternz trainers for their crucial training  and the developers and contributors of the InceptionV3 architecture, which forms the backbone of Microbe Mapper.
 
