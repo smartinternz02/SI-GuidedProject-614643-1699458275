@@ -35,6 +35,14 @@ Microbe Mapper is an AI-powered model for the visual recognition of microorganis
 
 Microbe Mapper is powered by the InceptionV3 architecture, a deep learning model known for its efficiency in image recognition tasks.
 
+## Website
+
+![image](https://github.com/smartinternz02/SI-GuidedProject-614643-1699458275/assets/121705156/83016673-04f9-4412-aa0e-e9df8fc7a534)
+
+![image](https://github.com/smartinternz02/SI-GuidedProject-614643-1699458275/assets/121705156/1e563b1b-a2cf-4908-942c-4f8d1b5dfb60)
+
+![image](https://github.com/smartinternz02/SI-GuidedProject-614643-1699458275/assets/121705156/394bf08b-31b1-4349-9c55-f5491d137053)
+
 ## Usage
 
 To classify a microorganism in a sample image, input the image into the Microbe Mapper model. The model will then provide the classification, indicating the type of microorganism present in the image based on the eight defined categories.
