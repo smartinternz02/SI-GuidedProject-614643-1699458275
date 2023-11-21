@@ -37,7 +37,7 @@ Microbe Mapper is powered by the InceptionV3 architecture, a deep learning model
 
 ## Website
 
-![image](https://github.com/smartinternz02/SI-GuidedProject-614643-1699458275/assets/121705156/83016673-04f9-4412-aa0e-e9df8fc7a534)
+![image](https://github.com/smartinternz02/SI-GuidedProject-614643-1699458275/assets/121705156/f56cf7c0-a52e-46fb-b82e-0443856bd7ae)
 
 ![image](https://github.com/smartinternz02/SI-GuidedProject-614643-1699458275/assets/121705156/1e563b1b-a2cf-4908-942c-4f8d1b5dfb60)
 
